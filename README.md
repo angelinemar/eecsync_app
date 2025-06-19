@@ -24,3 +24,6 @@ Constraint-based input logic
 Purpose:
 To help EECS students navigate academics and career planning with less stress and more clarity, while enabling faculty to efficiently connect with qualified students.
 
+Check Our Preview Here:
+https://www.canva.com/design/DAGp39LE148/gx5BIedP-mOFqLYVUXd0Ig/view?utm_content=DAGp39LE148&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h861670f4d6
+
