@@ -1,53 +1,26 @@
 # eecsync
-🚀 Key Features
-🧠 Intelligent Course Recommendations
-Automatically analyzes your transcript to suggest courses that fulfill graduation requirements
+EECSYNC is a smart academic assistant for EECS students that streamlines course planning, scheduling, and job matching using Generative AI and Firebase.
 
-Provides tailored advice to help you plan your academic journey more efficiently
+🔑 Key Features:
+Smart Course Recommendations based on transcript and graduation requirements
 
-📅 AI-Assisted Scheduling
-Shows only open, confirmed classes for the current semester
+AI-Powered Scheduling to avoid conflicts and show only available classes
 
-Helps you avoid scheduling conflicts and design an optimal timetable
+Personalized Job Matching for TA, internships, and research roles
 
-💼 Personalized Job Matching
-Recommends TA roles, internships, research, and office jobs based on your academic background and feedback
+Faculty Tools to filter and connect with student applicants
 
-Offers relevant opportunities to support your career growth
+Live EECS Updates for news, deadlines, and opportunities
 
-👨‍🏫 Faculty & Staff Tools
-Enables professors and staff to easily find and connect with qualified student applicants
+🛠️ Built With:
+Generative AI (prompt engineering)
 
-Streamlines the recruitment process for academic roles
+Firebase (Realtime DB & Firestore)
 
-📰 EECS News & Updates
-Keeps you up to date with department news, deadlines, and academic announcements
+Academic transcript and course data integration
 
-Integrates relevant updates directly into your dashboard
+Constraint-based input logic
 
-🧩 Tech Stack
-Generative AI & Prompt Engineering: Instruction-based prompts enhance the accuracy of recommendations and job matches
-
-Firebase (Realtime DB & Firestore): Powers real-time syncing of user data, course records, and job listings
-
-Constraint-Driven Input Design: Ensures logical, context-aware filtering for course and job suggestions
-
-Academic Data Integration: Leverages your transcript and course info for smart automation
-
-🎯 Project Goal
-EECSYNC is designed to make academic planning easier and foster stronger connections between EECS students and faculty.
-
-Whether you're overwhelmed by course selection, planning your path to graduation, or searching for impactful work experience, EECSYNC helps align your academic and career goals with ease.
-
-🤖 AI Integration
-While no AI model is directly trained, this project uses Generative AI via:
-
-Prompt engineering techniques
-
-Context-aware, instruction-based inputs
-
-Data-driven logic using information stored in Firebase
-
-
-
+Purpose:
+To help EECS students navigate academics and career planning with less stress and more clarity, while enabling faculty to efficiently connect with qualified students.
 
